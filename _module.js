@@ -4268,31 +4268,12 @@ function create_fragment$7(ctx) {
 				portrait: {
 					"image": {
 						"alt": "Profile photo of me",
-						"src": "https://images.unsplash.com/photo-1556015048-4d3aa10df74c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
-						"url": "https://images.unsplash.com/photo-1556015048-4d3aa10df74c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
-						"size": null
+						"url": "https://images.unsplash.com/photo-1556015048-4d3aa10df74c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80"
 					},
 					"variation": "circle"
 				},
 				name: "Georg Hartmann",
-				social_links: [
-					{
-						"icon": "mdi:twitter",
-						"link": {
-							"url": "https://twitter.com",
-							"label": "Twitter",
-							"active": false
-						}
-					},
-					{
-						"icon": "mdi:github",
-						"link": {
-							"url": "https://github.com",
-							"label": "Github",
-							"active": false
-						}
-					}
-				]
+				social_links: []
 			}
 		});
 
